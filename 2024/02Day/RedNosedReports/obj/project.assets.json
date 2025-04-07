@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcmoxey/Repo/advent-of-code/02Day/RedNosedReports/RedNosedReports.csproj",
+      "projectUniqueName": "/Users/marcmoxey/Repo/advent-of-code/2024/02Day/RedNosedReports/RedNosedReports.csproj",
       "projectName": "RedNosedReports",
-      "projectPath": "/Users/marcmoxey/Repo/advent-of-code/02Day/RedNosedReports/RedNosedReports.csproj",
+      "projectPath": "/Users/marcmoxey/Repo/advent-of-code/2024/02Day/RedNosedReports/RedNosedReports.csproj",
       "packagesPath": "/Users/marcmoxey/.nuget/packages/",
-      "outputPath": "/Users/marcmoxey/Repo/advent-of-code/02Day/RedNosedReports/obj/",
+      "outputPath": "/Users/marcmoxey/Repo/advent-of-code/2024/02Day/RedNosedReports/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marcmoxey/.nuget/NuGet/NuGet.Config"

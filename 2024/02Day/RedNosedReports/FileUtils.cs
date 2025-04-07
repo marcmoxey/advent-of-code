@@ -1,6 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+// using System.Text.RegularExpressions;
 
 namespace FileUtils
 {
@@ -35,6 +39,29 @@ namespace FileUtils
                 Console.WriteLine($"Error processing file: {ex.Message}");
                 throw;
             }
+        }
+
+
+        public static string ReadFile(string filePath)
+        {
+
+            try
+            {
+                if (!File.Exists(filePath))
+                    throw new FileNotFoundException($"File not found: {filePath}");
+
+                string lines = File.ReadAllText(filePath);
+                return lines; 
+          
+                
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error reading file: {ex.Message}");
+                throw;
+            }
+
+
         }
     }
 }
