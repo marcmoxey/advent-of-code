@@ -1,0 +1,15 @@
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/bin/Debug/net9.0/HistorianHysteria
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/bin/Debug/net9.0/HistorianHysteria.deps.json
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/bin/Debug/net9.0/HistorianHysteria.runtimeconfig.json
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/bin/Debug/net9.0/HistorianHysteria.dll
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/bin/Debug/net9.0/HistorianHysteria.pdb
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.AssemblyInfo.cs
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.sourcelink.json
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.dll
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/refint/HistorianHysteria.dll
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.pdb
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/HistorianHysteria.genruntimeconfig.cache
+/Users/marcmoxey/Repo/advent-of-code/01Day/HistorianHysteria/obj/Debug/net9.0/ref/HistorianHysteria.dll
